@@ -1,6 +1,8 @@
 # My first README.md
 
-My name is Nathan. I am a MSc Statistics student at Imperial College London. I am studying the following modules:
+My name is Nathan. I am a MSc Statistics student at Imperial College London. 
+
+I am studying the following modules:
 - Data Science
 - Statistical Inference
 - Applied Statistics
